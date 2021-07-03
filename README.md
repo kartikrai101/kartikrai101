@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kartik Rai
+- 👀 I’m interested in coding and football in general.
+- 🌱 I’m currently learning C++ and JS.
+- 💞️ I’m looking to collaborate on nothing as of right now.
+- 📫 How to reach me: kitrakiar73@gmail.com
