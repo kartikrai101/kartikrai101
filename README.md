@@ -1,7 +1,7 @@
 # About Me!
 - 👋 Hi, I’m Kartik
 - 🌱 I work on:
-    <div>C++</div>
+    <p>   <div>C++</div></p>
     <div>C</div>
     <div>JS</div>
     <div>HTML</div>
