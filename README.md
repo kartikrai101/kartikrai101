@@ -1,5 +1,5 @@
 # About Me!
-- 👋 Hi, I’m <span><h4>Kartik</h4></span>
+- 👋 Hi, I’m <span><b>Kartik</b></span>
 - 🌱 I work on:
          <div>
         <span style="margin-right:3px;">C, </span>
