@@ -1,5 +1,5 @@
-# <h1 style="color: Black;">About Me!</h1>
-- 👋 Hi, I’m <span><b>Kartik</b></span>
+# <h1 style="color: Black; text-align:center;">About Me!</h1>
+- 👋 Hi, I’m <b>Kartik</b>
 - 🌱 I work on:
          <div>
         <span style="margin-right:3px;">C, </span>
