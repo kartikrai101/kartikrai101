@@ -1,4 +1,4 @@
-# About Me!
+# <h1>About Me!</h1>
 - 👋 Hi, I’m <span><b>Kartik</b></span>
 - 🌱 I work on:
          <div>
