@@ -1,10 +1,11 @@
 # About Me!
 - 👋 Hi, I’m Kartik
 - 🌱 I work on:
-    <p>   <div>C++</div></p>
-    <div>C</div>
-    <div>JS</div>
-    <div>HTML</div>
-    <div>CSS</div>
-    <div>Nodejs</div>
+        <span>C</span>
+        <span>C++</span>
+        <span>JS</span>
+        <span>HTML</span>
+        <span>CSS</span>
+        <span>Nodejs</span>
+    
 - 📫 How to reach me: kitrakiar73@gmail.com
