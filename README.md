@@ -1,9 +1,10 @@
 # About Me!
 - 👋 Hi, I’m Kartik
-- 🌱 I work on languages like:
-  <li>-> C++ </li>
-  <li>->C</li>
-  <li>->HTML</li>
-  <li>->CSS</li>
-  <li>->JS.</li>
+- 🌱 I work on:
+    <div>C++</div>
+    <div>C</div>
+    <div>JS</div>
+    <div>HTML</div>
+    <div>CSS</div>
+    <div>Nodejs</div>
 - 📫 How to reach me: kitrakiar73@gmail.com
