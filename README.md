@@ -1,6 +1,6 @@
 # About Me!
 - 👋 Hi, I’m Kartik
--🌱 I work on languages like:
+- 🌱 I work on languages like:
   <li>-> C++ </li>
   <li>->C</li>
   <li>->HTML</li>
