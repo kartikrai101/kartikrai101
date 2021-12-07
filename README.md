@@ -18,7 +18,7 @@
          </div>        
 -<!-- Actual text -->
 
-You can find me on[![LinkedIn][2.2]][2], or on [![Twitter][1.2]][1] .
+You can find me on [![LinkedIn][2.2]][2], or on [![Twitter][1.2]][1] .
 
 <!-- Icons -->
 
