@@ -5,9 +5,10 @@
                   
          </style>
 </head>
-
+<body>
 <h1 style="color: Black; text-align:center;">About Me!</h1>
 - 👋 Hi, I’m <b>Kartik</b>
+         <br>
 - 🌱 I work on:
          <div>
         <span style="margin-right:3px;">C, </span>
@@ -21,4 +22,4 @@
 - 
          <div><a href="https://www.linkedin.com/in/kartik-rai-0067951bb"><i class="bi bi-linkedin"></i></a></div>
          <div>LinkedIn: https://www.linkedin.com/in/kartik-rai-0067951bb</div>
-  
+  </body>
