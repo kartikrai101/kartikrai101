@@ -7,15 +7,9 @@
 
  Hi, I’m <b>Kartik</b>
          <br>
-- 🌱 I work on:
-         <div>
-        <span style="margin-right:3px;">C, </span>
-        <span style="margin-right:3px;">C++, </span>
-        <span style="margin-right:3px;">JS, </span>
-        <span style="margin-right:3px;">HTML, </span>
-        <span style="margin-right:3px;">CSS, </span>
-        <span style="margin-right:3px;">Nodejs</span>
-         </div>        
+- <h2>Technologies & Tools:</h2>
+         ![](https://img.shields.io/badge/<C++>-<C>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+      
 -<!-- Actual text -->
 
 You can find me on [![LinkedIn][2.2]][2], or on [![Twitter][1.2]][1] .
@@ -29,8 +23,5 @@ You can find me on [![LinkedIn][2.2]][2], or on [![Twitter][1.2]][1] .
 
 [1]: https://twitter.com/kartikrai73
 [2]: https://www.linkedin.com/in/kartik-rai-0067951bb
-         
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-         
 
   </body>
