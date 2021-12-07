@@ -25,5 +25,7 @@ You can find me on [![LinkedIn][2.2]][2] or on [![Twitter][1.2]][1] .
 
 [1]: https://twitter.com/kartikrai73
 [2]: https://www.linkedin.com/in/kartik-rai-0067951bb
+         
+         ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
   </body>
