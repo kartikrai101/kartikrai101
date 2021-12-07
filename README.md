@@ -7,7 +7,9 @@
          
 - <h2>Technologies & Tools:</h2>
          
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<C++>-<C>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<JavaScript>-<NodeJs>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<HTMl>-<CSS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
       
 -<!-- Actual text -->
 
