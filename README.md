@@ -16,7 +16,5 @@
         <span style="margin-right:3px;">Nodejs</span>
          </div>
 - 📫 How to reach me:
-- 
-        
-         <div>LinkedIn: https://www.linkedin.com/in/kartik-rai-0067951bb</div>
+-<div>LinkedIn: https://www.linkedin.com/in/kartik-rai-0067951bb</div>
   </body>
