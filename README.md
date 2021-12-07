@@ -4,15 +4,14 @@
 <body>
 
  # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
- Hi, I’m <b>Kartik</b>
-         <br>
 - <h2>Technologies & Tools:</h2>
          ![](https://img.shields.io/badge/<C++>-<C>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
       
 -<!-- Actual text -->
 
-You can find me on [![LinkedIn][2.2]][2], or on [![Twitter][1.2]][1] .
+You can find me on [![LinkedIn][2.2]][2] or on [![Twitter][1.2]][1] .
 
 <!-- Icons -->
 
