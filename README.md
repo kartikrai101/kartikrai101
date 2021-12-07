@@ -4,6 +4,8 @@
 </head>
 <body>
 
+- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 - 👋 Hi, I’m <b>Kartik</b>
          <br>
 - 🌱 I work on:
