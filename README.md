@@ -18,7 +18,7 @@
         <span style="margin-right:3px;">Nodejs</span>
          </div>
 - 📫 How to reach me:
+- 
          <div><a href="https://www.linkedin.com/in/kartik-rai-0067951bb"><i class="bi bi-linkedin"></i></a></div>
-         <div>Email me @ kitrakiar73@gmail.com</div>
          <div>LinkedIn: https://www.linkedin.com/in/kartik-rai-0067951bb</div>
   
