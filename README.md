@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/HTML-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MongoDB-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
       
--<!-- Actual text -->
+<!-- Actual text -->
 
 You can find me on [![LinkedIn][2.2]][2] or on [![Twitter][1.2]][1] .
 
