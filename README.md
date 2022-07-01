@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
 <h3 align="center">You need a website? I'm your guy!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikrai101" alt="kartikrai101" /></a> </p>
-
 - 🔭 I’m currently working on [Poseidon](https://github.com/kartikrai101/poseidon)
 
 - 🌱 I’m currently learning **ReactJS, NextJS & MongoDB**
