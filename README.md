@@ -10,14 +10,6 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS & MongoDB**
 
-- 👯 I’m looking to collaborate on **Any good project where you might need a full stack Web Developer to collaborate with 🤷🏻**
-
-- 🤝 I’m looking for help with **Machine Learning and AI**
-
-- 👨‍💻 All of my projects are available at [page coming soon...🧟](page coming soon...🧟)
-
-- 📝 I regularly write articles on [website coming soon...🧟](website coming soon...🧟)
-
 - 💬 Ask me about **ReactJS, JS and MongoDB**
 
 - 📫 How to reach me **kitrakiar73@gmail.com**
