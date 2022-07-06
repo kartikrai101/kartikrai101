@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kitrakiar73@gmail.com**
 
-- ⚡ Fun fact **I've probably watched all the series out there!**
+- ⚡ Fun fact, **I've probably watched all the series out there!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
