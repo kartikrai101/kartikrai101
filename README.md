@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Kartik</h1>
-<h3 align="center">You need a website? I'm your guy!</h3>
 
 - 🔭 I’m currently working on [Poseidon](https://github.com/kartikrai101/poseidon)
 
