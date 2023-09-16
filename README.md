@@ -1,6 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Kartik</h1>
 
+<p>I'm a final year undergraduate student from New Delhi, pursuing my B.Tech in Computer Science and Engineering. Pretty passionate about tech in general, I have a solid grasp of languages like C, C++, JavaScript, SQL, CSS and apart from them I am proficient in various frameworks and libraries like NodeJS, ExpressJS, ReactJS, NextJS. I like building full stack web applications and I'm currently working on learning how to work with Microservices in order to scale websites. I've participated in multiple hackathons and won in some of them, but learnt a lot in all of them! You can visit <a>https://kartik-rai.vercel.app/</a> to know more about me.</p>
+
+🔭 I’m currently learning System Design and building stuff!
+🤖 Also working on my problem solving skills in Data Structures and Algorithms
+🌱 Flipkart Grid 2022 Semifinaist
+💬 Looking for internship & full time roles in Software and Development
+📫 You can reach out to me at <a href="mailto: kartikrai0912@gmail.com">kartikrai0912@gmail.com</a>
+⚡ Always open for new ideas to build! Peace✌🏼
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kartik_rai09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kartik_rai09" height="30" width="40" /></a>
