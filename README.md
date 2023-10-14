@@ -1,7 +1,7 @@
 
 <a href="https://kartik-rai.vercel.app/"><h1 align="center">Hi 👋, I'm Kartik</h1></a>
 
-<p>I'm a final year undergraduate student from New Delhi, pursuing my B.Tech in Computer Science and Engineering. Pretty passionate about tech in general, I have a solid grasp of languages like C, C++, JavaScript, SQL, CSS and apart from them I am proficient in various frameworks and libraries like NodeJS, ExpressJS, ReactJS, NextJS. I like building full stack web applications and I'm currently working on learning how to work with Microservices in order to scale websites. I've participated in multiple hackathons and won in some of them, but learnt a lot in all of them! You can visit <a>https://kartik-rai.vercel.app/</a> to know more about me.</p>
+<p>I'm a final year undergraduate student from New Delhi, pursuing my B.Tech in Computer Science and Engineering. Pretty passionate about tech in general, I have a solid grasp of languages like C, C++, JavaScript, SQL, CSS and apart from them I am proficient in various frameworks and libraries like NodeJS, ExpressJS, ReactJS, NextJS. I like building full stack web applications and I'm currently working on learning how to work with Microservices in order to scale websites. I've participated in multiple hackathons and won in some of them, but learnt a lot in all of them! You can visit <a href="https://kartik-rai.vercel.app/">https://kartik-rai.vercel.app/</a> to know more about me.</p>
 
 <ul>
 <li>🔭 I’m currently learning System Design and building stuff!</li>
